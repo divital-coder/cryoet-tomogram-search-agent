@@ -6,8 +6,8 @@ Searching a Cryogenic Electron tomogram dataset of cellular proteins and other o
 An AI-powered tool for searching and analyzing protein tomograms from the CZI CryoET Data Portal using CAMEL-AI's OWL framework.
 
 --- Browsing Images
-[./tmp/datasets_0403174754.png](Cryo ET Data portal being navigated.)
-[./tmp/datasets_0403174814.png](Cryo ET Data portal )
+![Cryo ET Data portal by CZI being Navigated](./tmp/datasets_0403174754.png)
+![Cryo ET Data portal being searched for a specific tomogram](./tmp/datasets_0403174814.png)
 
 ## Sample Testing
 Running a sample script is relatively straightforward : 
