@@ -1,0 +1,29 @@
+# configs/owl_config.yaml
+models:
+  user:
+    platform: groq
+    type: GROQ_LLAMA_3_1_8B
+    temperature: 0
+  assistant:
+    platform: groq
+    type: GROQ_LLAMA_3_3_70B
+    temperature: 0
+  browsing:
+    platform: groq
+    type: GROQ_LLAMA_3_3_70B
+    temperature: 0
+  document:
+    platform: groq
+    type: GROQ_MIXTRAL_8_7B
+    temperature: 0
+browser:
+  headless: false
+  executable_path: null  # Will be set based on system
+  cache_dir: "./cache"
+
+search:
+  base_url: "https://cryoetdataportal.czscience.com"
+  datasets_path: "/browse-data/datasets"
+  
+output:
+  results_dir: "./results"

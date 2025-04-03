@@ -1,0 +1,13 @@
+camel-ai
+playwright
+python-dotenv
+pyyaml
+aiohttp
+groq
+numpy
+pillow
+requests-oauthlib
+requests
+unstructured
+pandas
+cryoet_data_portal
