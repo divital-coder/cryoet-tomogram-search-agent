@@ -2,8 +2,10 @@
 Searching a Cryogenic Electron tomogram dataset of cellular proteins and other organisms, with the help of thecamel-ai's OWL (Optimized Workforce Learning) framework, with native browser interaction.
 
 ## General Introduction Video
-![Camel AI OWL CryoET Dataset Search Walkthrough](https://youtu.be/81arCK0RHwo)
 
+[![CryoET Tomogram Dataset Search Walkthrough with CamelAI's OWL Framework.](http://img.youtube.com/vi/81arCK0RHwo/0.jpg)](https://youtu.be/81arCK0RHwo)
+
+<a href="https://youtu.be/81arCK0RHwo">https://youtu.be/81arCK0RHwo</a>
 
 ## CryoET Tomogram Search
 
